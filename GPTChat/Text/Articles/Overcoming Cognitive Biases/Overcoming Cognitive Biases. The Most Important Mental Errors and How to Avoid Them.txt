@@ -1,0 +1,13 @@
+Cognitive biases are mental errors that arise from the ways our brain processes information. These biases can lead us to make decisions and judgments that are not based on facts, and can sometimes even be harmful. Here are some of the most important cognitive biases, and how to overcome them:
+
+The confirmation bias is the tendency to search for, interpret, and favor information that confirms our existing beliefs, while ignoring or discounting information that contradicts them. To overcome this bias, we can try to actively seek out information that challenges our beliefs, and consider it carefully and objectively.
+
+The halo effect is the tendency to make broad, positive inferences about a person based on a single positive trait. For example, if we think someone is attractive, we may also assume that they are intelligent, friendly, and successful. To overcome this bias, we can try to focus on the specific traits and behaviors that are relevant to our judgment, rather than making assumptions based on one characteristic.
+
+The sunk cost fallacy is the tendency to continue pursuing a goal or investment, even when it is no longer rational to do so, because of the time, money, or effort that has already been invested. To overcome this bias, we can try to consider the future costs and benefits of a decision, rather than being influenced by the past.
+
+The availability heuristic is the tendency to base our judgments and decisions on the information that is most readily available to us, even if it is not representative or relevant. To overcome this bias, we can try to consider a wider range of information, and check our conclusions against objective facts and data.
+
+The framing effect is the tendency to be influenced by the way that information is presented to us, even if the underlying facts are the same. For example, we may respond differently to the same decision depending on whether it is framed as a gain or a loss. To overcome this bias, we can try to consider the content of the information, rather than being influenced by the way it is presented.
+
+Overall, cognitive biases are a natural part of human cognition, and they can sometimes be useful in helping us make quick decisions. However, they can also lead us astray, and it is important to be aware of them and to try to overcome them when they are not serving us well. By being aware of our biases and actively trying to counter them, we can improve the accuracy and rationality of our judgments and decisions.
