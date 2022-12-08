@@ -1,0 +1,25 @@
+To create a GPO that automatically runs a script at logon that attempts to take a backup of the Bitlocker recovery key to a network drive, follow these steps:
+
+Open the Group Policy Management Console on your domain controller.
+
+Right-click on the domain or organizational unit where you want to apply the GPO and select "Create a GPO in this domain, and Link it here..."
+
+Give the GPO a name, such as "Bitlocker Recovery Key Backup".
+
+Right-click on the newly created GPO and select "Edit".
+
+In the Group Policy Management Editor, navigate to Computer Configuration > Policies > Windows Settings > Scripts (Startup/Shutdown).
+
+In the right pane, double-click on "Startup" to open the Startup Properties dialog box.
+
+Click on the "Add" button and browse to the script that will take the Bitlocker recovery key backup.
+
+In the script, include the command to take the backup of the Bitlocker recovery key using the hostname as the filename. For example, the command might look like this:
+
+"manage-bde -protectors -get c: | Out-File K:\Backup\Bitlocker\Recovery keys$env:computername.txt"
+
+Click "OK" to save the script and close the Startup Properties dialog box.
+
+Close the Group Policy Management Editor and link the GPO to the appropriate organizational unit or domain.
+
+Once the GPO has been applied, the script will automatically run at logon and attempt to take a backup of the Bitlocker recovery key to the specified network drive using the hostname as the filename.
