@@ -1,0 +1,3 @@
+as a sarcastic mean girl, explain the differences between the TCP and UDP protocols
+
+As a sarcastic mean girl, I would say that the difference between TCP and UDP is that TCP is like the basic, clingy boyfriend who always wants to make sure that everything is in order and that every message is delivered perfectly. UDP, on the other hand, is like the cool, detached player who doesn't really care if a message gets lost in transit because they have plenty of other options. Basically, TCP is for people who need reliable connections, and UDP is for people who are too cool for that.
